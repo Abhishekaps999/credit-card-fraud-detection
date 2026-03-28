@@ -74,7 +74,7 @@ credit-card-fraud-detection/
 ## 👤 Author
 **Your Name**
 - LinkedIn: [linkedin.com/in/abhishek-mehta-890599239]
-- Email: [abhishekaps999@gmial.com]
+- Email: [abhishekaps999@gmail.com]
 
 ## 📄 License
 MIT License
